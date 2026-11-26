@@ -1,0 +1,210 @@
+{
+  "projeto": "MatCh.wp",
+  "rota": "TOP",
+  "gerado_em": "2026-11-22",
+  "observacao": "Dicas de como jogar CONTRA cada campeão, escritas com palavras próprias a partir de guias públicos (Mobalytics, MOBAFire, Dot Esports, counterstats e outros). Meta e números mudam a cada patch, então revise antes de usar na apresentação.",
+  "ranking_pick_rate": {
+    "fonte": "LoLValue, Emerald+, patch 26.23",
+    "url": "https://lolvalue.com/lol-tier-list/top",
+    "lista": [
+      {"campeao": "Darius", "pick_rate": 7.1},
+      {"campeao": "Malphite", "pick_rate": 7.0},
+      {"campeao": "Yone", "pick_rate": 6.8},
+      {"campeao": "Aatrox", "pick_rate": 6.7},
+      {"campeao": "Jax", "pick_rate": 6.6},
+      {"campeao": "Renekton", "pick_rate": 6.4},
+      {"campeao": "Garen", "pick_rate": 6.3},
+      {"campeao": "Mordekaiser", "pick_rate": 5.4},
+      {"campeao": "Jayce", "pick_rate": 5.3},
+      {"campeao": "Sett", "pick_rate": 5.2}
+    ]
+  },
+  "campeoes": {
+    "Darius": {
+      "resumo": "Duelista forte em trocas longas, mas com pouca mobilidade. Quer te prender perto dele e fechar com a ultimate.",
+      "dicas": [
+        "Evite trocas longas: em duelo prolongado ele costuma sair na frente. Prefira poke e trocas curtas.",
+        "Respeite os níveis 1 e 2: o all-in dele nesse período é forte, então não lute com ele ali.",
+        "Ele é lento para sair do lugar: peça gank ao jungler e fique fora do alcance do E (puxão) quando estiver sem prioridade.",
+        "Quando ele errar o E, aproveite o tempo de recarga para trocar, porque ele fica sem como fechar a distância.",
+        "Mantenha a wave do seu lado da lane para ele não te perseguir nem te afastar do farm.",
+        "Se ele sumir da lane no nível 1, não empurre a wave de forma imprudente: ele pode tentar uma emboscada.",
+        "Um item de anticura reduz a sobrevivência dele em lane e em lutas."
+      ],
+      "origem": "pesquisa",
+      "fontes": [
+        "https://mobalytics.gg/blog/lol-5-champions-that-counter-darius/",
+        "https://mobalytics.gg/lol/champions/darius/counters?iRole=TOP",
+        "https://mobalytics.gg/lol/champions/darius/counters?iRole=ADC",
+        "https://www.mobafire.com/league-of-legends/forum/general/34178"
+      ]
+    },
+    "Malphite": {
+      "resumo": "Fraco no começo do jogo, forte a partir do nível 6 e nas lutas em equipe.",
+      "dicas": [
+        "Dê poke e troque de forma agressiva antes de ele fechar o primeiro item, para atrasar o power spike dele.",
+        "O escudo da passiva dá segurança na lane. Cause dano com frequência para ele não conseguir mantê-lo.",
+        "No nível 6 a ultimate aumenta a pressão de abate e o risco de gank. Olhe o minimapa se estiver com a wave empurrada.",
+        "Em lutas em equipe, evite ficar agrupado. Prefira lutar em espaço aberto, e não em selva, dragão ou barão, para a ultimate pegar menos gente."
+      ],
+      "origem": "pesquisa",
+      "fontes": [
+        "https://mobalytics.gg/lol/champions/malphite/counters?name=se",
+        "https://mobalytics.gg/lol/champions/Malphite/counters",
+        "https://app.mobalytics.gg/lol/champions/malphite/counters/mid?wp=t",
+        "https://mobalytics.gg/lol/champions/malphite/counters/mid"
+      ]
+    },
+    "Yone": {
+      "resumo": "Muito móvel e forte com ultimate e crítico, mas sofre contra poke à distância.",
+      "dicas": [
+        "Mantenha distância máxima e use alcance para dar poke. Ele tem dificuldade de farmar e de ser agressivo sob pressão.",
+        "Depois que ele usa o E e volta ao ponto de origem, aproveite o tempo de recarga para atacar.",
+        "Não o persiga quando ele fugir: ele usa o E para escapar.",
+        "Respeite o nível 6 e o crítico alto dele: as trocas dele melhoram bastante com a ultimate e itens de crítico.",
+        "Não dê poke com um minion de canhão por perto, porque os minions te atacam quando você bate nele.",
+        "Em lutas em equipe, fique espaçado para a ultimate dele pegar menos gente."
+      ],
+      "origem": "pesquisa",
+      "fontes": [
+        "https://mobalytics.gg/?p=25442",
+        "https://mobalytics.gg/blog/lol-how-to-counter-yone/",
+        "https://mobalytics.gg/lol/champions/yone/counters/top",
+        "https://mobalytics.gg/lol/champions/yone/counters?igrole=adc",
+        "https://mobalytics.gg/lol/champions/yone/counters?iRole=ADC"
+      ]
+    },
+    "Aatrox": {
+      "resumo": "Lane forte, com cura e dano nos Q. Fica perigoso se pegar vantagem cedo.",
+      "dicas": [
+        "Desvie dos pontos ideais do Q: o maior dano dele vem de acertá-los.",
+        "Use os minions para bloquear o W (correntes). Mantenha sempre pelo menos um minion entre vocês.",
+        "No começo, jogue em volta da recarga do Q e puna quando ele estiver sem a habilidade.",
+        "Congele a wave do seu lado para que trocas longas sejam arriscadas para ele.",
+        "Use trocas curtas e rápidas, atento a gank do jungler.",
+        "Item de anticura reduz a cura dele. Se ele estiver baixo, fica difícil ele jogar agressivo.",
+        "Evite lutar enquanto a ultimate dele estiver ativa, a menos que ele esteja quase morto.",
+        "Depois da lane ele gosta de split push: quando aparecer sozinho no lado do mapa, puna ou inicie luta com o time dele desfalcado."
+      ],
+      "origem": "pesquisa",
+      "fontes": [
+        "https://mobalytics.gg/lol/guides/how-to-counter-aatrox",
+        "https://mobalytics.gg/blog/lol-how-to-counter-aatrox/",
+        "https://mobalytics.gg/lol/champions/aatrox/counters/top?wp=t",
+        "https://tacter.com/lol/guides/how-to-counter-aatrox-in-league-of-legends-3eccca6b",
+        "https://www.counterstats.net/league-of-legends/aatrox"
+      ]
+    },
+    "Jax": {
+      "resumo": "Dicas escritas pelo Alex, jogando de Garen contra Jax.",
+      "dicas": [
+        "Prefira trocas curtas e abuse da sua passiva.",
+        "Baite o E do Jax com o seu Q.",
+        "Se levar o stun, use o W no momento certo.",
+        "Desviar do E (contra-ataque) abre a janela para o all-in, porque depois disso ele não consegue anular seus ataques."
+      ],
+      "origem": "Alex (as 3 primeiras dicas) e pesquisa (a última)",
+      "fontes": [
+        "https://Mobafire.Com/league-of-legends/build/sett-14-8-facebreaker-595555"
+      ]
+    },
+    "Renekton": {
+      "resumo": "Lane bully que depende da fúria. Perde impacto no meio e no fim contra quem escala melhor.",
+      "dicas": [
+        "Fique de olho na barra de fúria dele: com ela cheia, os golpes empoderados decidem trocas.",
+        "No nível 3 ele ganha o primeiro grande power spike e pode forçar o Flash ou matar. Evite trocas agressivas nos níveis 1 e 2 e jogue seguro.",
+        "Ele perde força mais tarde contra campeões que escalam melhor, então jogar para escalar é um caminho válido.",
+        "Se ele estiver sem Teleporte, você ganha vantagem no mapa: use isso para rotacionar e pressionar.",
+        "Item com armadura e anticura ajuda quando você é obrigado a ficar no corpo a corpo com ele."
+      ],
+      "origem": "pesquisa",
+      "fontes": [
+        "https://dotesports.com/?p=376520",
+        "https://mobalytics.gg/lol/champions/renekton/counters/mid",
+        "https://loltheory.gg/lol/counters/renekton",
+        "https://win.gg/news/how-to-counter-renekton-in-league-of-legends/"
+      ]
+    },
+    "Garen": {
+      "resumo": "Tanque simples e forte, com regeneração na passiva e execução com a ultimate.",
+      "dicas": [
+        "Ataque-o sempre que puder para negar a regeneração da passiva.",
+        "Ele não farma à distância. Segure a wave perto da sua torre e force-o a se aproximar para pegar CS.",
+        "O plano dele é entrar com o Q e combar. Não deixe ele grudar em você e a lane fica segura.",
+        "Cuidado com a ultimate: ela executa quem está com pouca vida, então não fique baixo quando ela estiver disponível.",
+        "Campeões à distância ou com bom kite costumam ter vantagem, como Kayle, Teemo, Camille, Vayne e Quinn."
+      ],
+      "dicas_do_alex": [
+        "Jogando de Jax contra Garen: Conquistador e Ignite.",
+        "Usar o E quando o Garen for dar o Q, para cancelar o Q dele.",
+        "Mesclar dano AP e AD e fazer offtank."
+      ],
+      "origem": "pesquisa e Alex",
+      "fontes": [
+        "https://mobalytics.gg/lol/champions/garen/counters?amp%3Bwp=t",
+        "https://mobalytics.gg/blog/lol-5-champions-that-counter-garen/",
+        "https://dotesports.com/?p=305678",
+        "https://www.esports.net/news/lol/best-garen-counters",
+        "https://www.highgroundgaming.com/league-of-legends-garen-counters/",
+        "https://www.counterstats.net/league-of-legends/garen"
+      ]
+    },
+    "Mordekaiser": {
+      "resumo": "Duelista de dano mágico com escudo (W), puxão (E) e ultimate que isola o alvo.",
+      "dicas": [
+        "Antes do nível 3 ele pode ser pokeado para fora da lane. Abuse nessa fase, porque depois o all-in dele fica forte.",
+        "Quando ele ativa o W, recue: ele bloqueia o dano que você causa e ainda se cura.",
+        "A ultimate no nível 6 aumenta o risco de morrer. Cuide do posicionamento quando estiver com pouca vida ou longe da torre.",
+        "Desvie ou cancele o puxão do E dele quando possível.",
+        "A passiva dá a ele uma aura de dano e velocidade depois de alguns golpes, o que dificulta kitar. Evite trocar várias vezes em sequência.",
+        "Congele a wave perto da torre e foque em last hit para evitar que ele fique forte sem pressão.",
+        "Item de anticura ajuda se você ficar muito perto dele."
+      ],
+      "origem": "pesquisa",
+      "fontes": [
+        "https://mobalytics.gg/lol/champions/mordekaiser/counters?lane=top",
+        "https://mobalytics.gg/lol/champions/mordekaiser/counters?igrole=adc",
+        "https://mobalytics.gg/lol/champions/mordekaiser/counters?igRole=ADC",
+        "https://dotesports.com/league-of-legends/news/the-best-mordekaiser-counters-in-league-of-legends",
+        "https://www.counterstats.net/league-of-legends/mordekaiser"
+      ]
+    },
+    "Jayce": {
+      "resumo": "Poke à distância contra corpo a corpo, com pouca fuga e recargas curtas.",
+      "dicas": [
+        "Ele usa o alcance para dar poke em campeões corpo a corpo. Esteja pronto para abrir mão de um pouco de CS para ganhar XP quando precisar.",
+        "No começo, jogue seguro, use minions como escudo e desvie do Q de longe.",
+        "Ele queima habilidades de recarga curta no poke. Induza ele a gastá-las e então entre.",
+        "Ele tem pouca fuga e tende a perder trocas curtas contra bruisers corpo a corpo.",
+        "Coloque ward no rio: ele pode rotacionar e o Q alcança de longe."
+      ],
+      "origem": "pesquisa",
+      "fontes": [
+        "https://mobalytics.gg/lol/champions/jayce/counters?%3Bwp=t",
+        "https://esn.gg/?p=47262",
+        "https://turbosmurfs.gg/article/best-counters-to-play-against-jayce"
+      ]
+    },
+    "Sett": {
+      "resumo": "Lane forte, com bastante dano e regeneração. Perigoso nos níveis iniciais e depois do 6.",
+      "dicas": [
+        "Evite trocar com ele no nível 1: o início dele é muito forte.",
+        "Mantenha a wave do seu lado do mapa para reduzir a chance de ele conseguir abate.",
+        "No nível 6 não fique com pouca vida nem exagere no avanço: a ultimate pode te matar ou preparar gank.",
+        "Respeite o E dele e evite brigar de perto sem necessidade.",
+        "Ele regenera mais quanto menos vida tem, então deixá-lo baixo não é motivo para relaxar.",
+        "Botas de armadura cedo e um item de anticura com retorno de dano ajudam contra ele.",
+        "Fora da lane, ele faz split push. Pegue-o sozinho. Na ultimate dele, que escala com a vida do alvo, fique longe do seu time."
+      ],
+      "origem": "pesquisa",
+      "fontes": [
+        "https://mobalytics.gg/lol/champions/sett/counters?tl=60&wp=t",
+        "https://mobalytics.gg/lol/champions/sett/counters",
+        "https://mobalytics.gg/lol/champions/Sett/counters",
+        "https://dotesports.com/?p=350579",
+        "https://www.counterstats.net/league-of-legends/sett",
+        "https://mobalytics.gg/lol/champions/sett/counters/mid"
+      ]
+    }
+  }
+}
