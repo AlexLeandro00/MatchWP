@@ -4,3 +4,5 @@ __pycache__/
 match_v5.json
 timeline_v5.json
 *.csv
+
+!confrontos_topo.csv
